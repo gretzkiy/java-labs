@@ -1,6 +1,7 @@
 // 7. Ввести n слов с консоли. Найти слово, состоящее только из различных символов.
 // Если таких слов несколько, найти первое из них.
 
+import java.util.Date;
 import java.util.Scanner;
 import java.util.HashSet;
 
@@ -22,9 +23,13 @@ class Lab1_7 {
         for (String str : arr) {
             if (Lab1_7.consistsOfDifferentChars(str)) {
                 System.out.println(str);
+
+                Lab1_7.printMetaInfo();
                 return;
             }
         }
+
+        Lab1_7.printMetaInfo();
     }
 
     /**
@@ -39,5 +44,11 @@ class Lab1_7 {
         }
 
         return charSet.size() == str.length();
+    }
+
+    protected static void printMetaInfo() {
+        System.out.println("\n\nРазработчик: Дикарев");
+        System.out.println("Дата и время получения задания: 12 февраля 2021 года, 19:00");
+        System.out.println("Дата и время сдачи задания: " + new Date());
     }
 }

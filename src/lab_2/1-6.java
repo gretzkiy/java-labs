@@ -1,6 +1,7 @@
 // 6. Ввести n слов с консоли. Найти слово, символы в котором идут в строгом порядке возрастания их кодов.
 // Если таких слов несколько, найти первое из них.
 
+import java.util.Date;
 import java.util.Scanner;
 
 class Lab1_6 {
@@ -21,9 +22,13 @@ class Lab1_6 {
         for (String str : arr) {
             if (Lab1_6.hasAscendingChars(str)) {
                 System.out.println(str);
+
+                Lab1_6.printMetaInfo();
                 return;
             }
         }
+
+        Lab1_6.printMetaInfo();
     }
 
     /**
@@ -38,5 +43,11 @@ class Lab1_6 {
         }
 
         return true;
+    }
+
+    protected static void printMetaInfo() {
+        System.out.println("\n\nРазработчик: Дикарев");
+        System.out.println("Дата и время получения задания: 12 февраля 2021 года, 19:00");
+        System.out.println("Дата и время сдачи задания: " + new Date());
     }
 }
