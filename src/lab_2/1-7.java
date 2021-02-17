@@ -46,6 +46,9 @@ class Lab1_7 {
         return charSet.size() == str.length();
     }
 
+    /**
+     * Выводит в консоль мета-информацию
+     */
     protected static void printMetaInfo() {
         System.out.println("\n\nРазработчик: Дикарев");
         System.out.println("Дата и время получения задания: 12 февраля 2021 года, 19:00");
