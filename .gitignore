@@ -33,3 +33,6 @@ out
 
 # java
 *.class
+
+out.txt
+out3.txt

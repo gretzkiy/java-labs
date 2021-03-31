@@ -1,0 +1,38 @@
+eliF ассалк имавтсдерс лйаф и юироткерид юувон ьтавадзос вотатьлузер адовыв ялд йинадаз хищюуделс ииненлопыв ирП //
+.икортс йоджак ыловмис екдяроп монтарбо в лйаф йогурд в ьтасипаз и ыммаргорп-avaJ тскет ьтатичорП .2 //
+
+;*.oi.avaj tropmi
+;rennacS.litu.avaj tropmi
+
+{ 2_4_5_baL ssalc
+{ )sgra ][gnirtS(niam diov citats cilbup    
+;"avaj.2-4/5_bal/crs" = emaNeliFni gnirtS        
+;"txt.deifidom-2-4/5_bal/crs" = emaNeliFtuo gnirtS        
+;)(redliuBgnirtS wen = ser redliuBgnirtS        
+
+{ yrt        
+;))emaNeliFni(eliF wen(rennacS wen = rennacs rennacS            
+
+{ ))(eniLtxeNsah.rennacs( elihw            
+;)(eniLtxen.rennacs = enil gnirtS                
+
+;))(esrever.)enil(redliuBgnirtS wen(dneppa.ser                
+;)"n\"(dneppa.ser                
+}            
+
+{ )e noitpecxEdnuoFtoNeliF( hctac }        
+;)(ecarTkcatStnirp.e            
+}        
+
+{ yrt        
+;)emaNeliFtuo(eliF wen = eliFtuo eliF            
+;)eliFtuo(retirWeliF wen = retirWelif retirWeliF            
+
+;))(gnirtSot.ser(etirw.retirWelif            
+;)(esolc.retirWelif            
+
+{ )e noitpecxEOI( hctac }        
+;)(ecarTkcatStnirp.e            
+}        
+}    
+}
